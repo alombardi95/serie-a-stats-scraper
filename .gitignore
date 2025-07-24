@@ -137,3 +137,7 @@ dmypy.json
 # OS
 .DS_Store
 Thumbs.db
+
+# Debug
+/tables_out
+debug_tables_dump.json
