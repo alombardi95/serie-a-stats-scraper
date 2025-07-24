@@ -141,3 +141,7 @@ Thumbs.db
 # Debug
 /tables_out
 debug_tables_dump.json
+
+# Security
+github_credentials.env
+*.env
